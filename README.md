@@ -1,2 +1,2 @@
-# Retail-Management-System
+# Retail Management System
 A retail management solution
